@@ -1,7 +1,11 @@
 👋 Hi, I am dhivya. 
+
 🔭 I am interested to do analysis with data.
+
 🌱 I’m currently learning and doing projects in Excel, Power BI, SQL and Python.
+
 👯 I’m looking to collaborate on full time data analyst/business analyst job roles
+
 📫 How to reach me: dhivyatc@gmail.com
 
 <!--
